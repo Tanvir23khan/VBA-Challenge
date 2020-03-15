@@ -1,2 +1,2 @@
 # VBA-Challenge
-VBA HW
+VBA HW - VBA Stock Analysis
